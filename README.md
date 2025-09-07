@@ -38,7 +38,7 @@ Place the ffmpeg.exe (or equivalent) binary in a known location on your system.
 Important: Open the Python server script and update the path to point to your ffmpeg.exe location.
 2. Setup Instructions
 Clone the repository:
-git clone [https://github.com/your-username/NorthernStar.git](https://github.com/your-username/NorthernStar.git)
+git clone [https://github.com/your-username/NorthernStar.git](https://github.com/prnnav/North-Star.git)
 cd NorthernStar
 
 
